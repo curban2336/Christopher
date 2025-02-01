@@ -1,0 +1,23 @@
+{
+  "name": "christopherurban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "christopherurban": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curban2336/Christopher.git"
+  },
+  "keywords": [],
+  "author": "Christopher Urban <g00269489s@stu.raritanval.edu> (https://github.com/curban2336)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curban2336/Christopher/issues"
+  },
+  "homepage": "https://github.com/curban2336/Christopher#readme"
+}
