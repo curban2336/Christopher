@@ -7,3 +7,9 @@ To use this CLI, use
 ```
 npx christopherurban
 ```
+
+To use ESLint functions, use
+
+```
+npm run lint
+```
